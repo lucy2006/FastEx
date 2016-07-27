@@ -6,3 +6,5 @@ D:\Documents\Term 4\.Net and C#\final\FinalProject\FinalProject\obj\Debug\FinalP
 D:\Documents\Term 4\.Net and C#\final\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
 D:\Documents\Term 4\.Net and C#\final\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 D:\Documents\Term 4\.Net and C#\final\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
