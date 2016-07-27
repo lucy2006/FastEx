@@ -13,3 +13,7 @@ D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalPr
 C:\Users\JaineshKant\Documents\C#\GitHubProject\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 C:\Users\JaineshKant\Documents\C#\GitHubProject\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
 >>>>>>> origin/master
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
