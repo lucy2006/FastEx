@@ -13,3 +13,5 @@ D:\Documents\Term 4\.Net and C#\final project github\FastEx\FinalProject\FinalPr
 C:\Users\JaineshKant\Documents\C#\GitHubProject\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 C:\Users\JaineshKant\Documents\C#\GitHubProject\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
 >>>>>>> origin/master
+C:\Users\st_ji\Documents\GitHub\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\st_ji\Documents\GitHub\FastEx\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
